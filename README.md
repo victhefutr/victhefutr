@@ -1,4 +1,4 @@
-Hi, I'm Victor 👋
+<H1>Hi, I'm Victor</H1> 👋
 
 With over 5 years of experience in the software industry, I have had the privilege of working across various domains, from managing SQL databases to developing enterprise python and mobile applications. My journey in tech has been driven by an innate curiosity and a passion for problem-solving, which has led me to my current role as a Machine Learning Engineer.
 
