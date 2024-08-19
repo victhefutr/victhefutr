@@ -1,6 +1,6 @@
 Hi, I'm Victor 👋
 
-With over 5 years of experience in the software industry, I have had the privilege of working across various domains, from managing SQL databases to developing enterprise python and rust applications. My journey in tech has been driven by an innate curiosity and a passion for problem-solving, which has led me to my current role as a Machine Learning Engineer.
+With over 5 years of experience in the software industry, I have had the privilege of working across various domains, from managing SQL databases to developing enterprise python and mobile applications. My journey in tech has been driven by an innate curiosity and a passion for problem-solving, which has led me to my current role as a Machine Learning Engineer.
 
 I thrive on challenges and enjoy exploring the vast expanse of technology. This has enabled me to build a diverse skill set that not only includes backend development and data management but also the intricate world of machine learning and artificial intelligence.
 
