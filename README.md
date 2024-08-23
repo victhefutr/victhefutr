@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Computer vision project**
 
-- 🤝 I’m looking for help with **Social Media App in flutter**
+- 🤝 I’m looking for help with ** a database that i am building from scratch **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
