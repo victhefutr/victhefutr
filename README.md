@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Computer vision project**
 
-- 🤝 I’m looking for help with ** a database that i am building from scratch **
+- 🤝 I’m looking for help with ** a database that i am building from scratch in ocaml and swift **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
