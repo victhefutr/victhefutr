@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm  Victor</h1>
-<h4 align="justify">With over 5 years of experience in the software industry, I have had the privilege of working across various domains, from managing SQL databases to architecting enterprise data application My journey in tech has been driven by an innate curiosity and a passion for problem-solving, which has led me to my current role as a Machine Learning Engineer. I thrive on challenges and enjoy exploring the vast expanse of technology. This has enabled me to build a diverse skill set that not only includes backend development and data management but also the intricate world of machine learning and artificial intelligence. Beyond my professional endeavors, I am an avid dreamer with a strong entrepreneurial spirit. I am actively involved in multiple startup ventures, each aimed at bringing innovative solutions to market. My optimistic outlook fuels my drive to make a meaningful impact in the tech industry and beyond. I believe in the power of collaboration and the endless possibilities that the future holds. Let's connect and explore the exciting opportunities that lie ahead. Come join me on this journey of growth and innovation.</h4>
+<h4 align="justify">Machine Learning Engineer with over 5 years of expertise in deploying scalable solutions across data engineering and machine
+learning environments, particularly on Microsoft Azure. Demonstrates proficiency in leveraging tools such as Docker, PyTorch,
+and Azure DevOps to enhance model accuracy and streamline data processing. Passionate about advancing distributed systems
+and machine learning technologies to drive innovation and efficiency in forward-thinking teams.</h4>
 
 - 🔭 I’m currently working on **Building some interesting stuff**
 
