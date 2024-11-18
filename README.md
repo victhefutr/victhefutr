@@ -2,7 +2,9 @@
 <h4 align="justify">Machine Learning Engineer with over 5 years of expertise in deploying scalable solutions across data engineering and machine
 learning environments, particularly on Microsoft Azure. Demonstrates proficiency in leveraging tools such as Docker, PyTorch,
 and Azure DevOps to enhance model accuracy and streamline data processing. Passionate about advancing distributed systems
-and machine learning technologies to drive innovation and efficiency in forward-thinking teams.</h4>
+and machine learning technologies to drive innovation and efficiency in forward-thinking teams. I also run an active YouTube and Twitch channels where I regularly share content focused on AI and machine learning. My videos
+cover a wide range of topics, including foundational concepts, system design, SQL, creating and optimizing ML models, and
+deploying them effectively.</h4>
 
 - 🔭 I’m currently working on **Building some interesting stuff**
 
