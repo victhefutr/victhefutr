@@ -10,7 +10,7 @@ deploying them effectively.</h4>
 
 - 🌱 I’m currently learning **NLP, with transformer model**
 
-- 👯 I’m looking to collaborate on **Computer vision project**
+- 👯 I’m looking to collaborate on projects related to ** LLMS**
 
 - 🤝 I’m looking for help with ** a database that i am building from scratch in ocaml and swift **
 
