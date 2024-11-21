@@ -10,9 +10,9 @@ deploying them effectively.</h4>
 
 - 🌱 I’m currently learning **NLP, with transformer model**
 
-- 👯 I’m looking to collaborate on projects related to ** LLMS**
+- 👯 I’m looking to collaborate on projects related to **LLMS**
 
-- 🤝 I’m looking for help with ** a database that i am building from scratch in ocaml and swift **
+- 🤝 I’m looking for help with **building domain specific neural networks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
