@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm  Victor</h1>
-<h4 align="justify">As a seasoned Machine Learning Engineer with over 5 years of experience, I've successfully deployed scalable ML solutions on GCP and Azure. I'm proficient in tools like Docker, PyTorch, and Azure DevOps to optimize model performance and streamline data pipelines. Passionate about the intersection of software and AI, I'm dedicated to pushing the boundaries of innovation. I actively share my knowledge through my YouTube and Twitch channels, covering a wide range of topics from foundational ML concepts to advanced system design, SQL, model optimization, and deployment strategies.</h4>
+<h4 align="justify">Machine Learning Engineer with 6 years of experience in deploying scalable AI solutions and optimizing data engineering
+workflows. Proficient in leveraging platforms like Google AI Cloud and AWS Sage Maker, with strong expertise in Docker,
+PyTorch, and Kubernetes to enhance model precision and operational efficiency. Passionate about pioneering AI-driven
+innovations to revolutionize skill assessments and advance machine learning technologies for impactful outcomes. </h4>
 
 
 - 🔭 I’m currently working on **Building some interesting stuff**
