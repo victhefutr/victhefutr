@@ -1,5 +1,21 @@
-# 💫 About Me:
-# 👋 Hi, This is Victor  <br><br>🔹 I am a **Data Platform Engineer** with over 6 years of experience designing and deploying **scalable AI and data solutions**.  <br>🔹 Skilled in **NLP, Docker, and Azure AI Foundry**, with expertise in **ETL pipelines** and **SQL optimization**.  <br>🔹 Passionate about building **AI-powered systems** that improve model accuracy, efficiency, and real-world impact.  <br><br>## 🔭 What I’m Working On  <br>- Building an **AI-powered database** that allows writing queries using **natural language**.  <br><br>## 👯 Let’s Collaborate  <br>- Open to **LLM-driven projects** and initiatives pushing the boundaries of **machine learning innovation**.  <br>
+# 👋 Hi, I'm Victor  
+
+🔹 A **Data Platform Engineer** with over 6 years of experience designing and deploying **scalable AI and data solutions**.  
+🔹 Skilled in **NLP, Docker, and Azure AI Foundry**, with expertise in **ETL pipelines** and **SQL optimization**.  
+🔹 Passionate about building **AI-powered systems** that improve model accuracy, efficiency, and real-world impact.  
+
+## 🔭 What I’m Working On  
+- Building an **AI-powered database** that allows writing queries using **natural language**.  
+
+## 👯 Let’s Collaborate  
+- Open to **LLM-driven projects** and initiatives pushing the boundaries of **machine learning innovation**.  
+
+## 🎥 Beyond Code  
+I run an active **YouTube channel** where I regularly share content on **data engineering** and **machine learning**.  
+Topics include:  
+- 📊 Foundational concepts & data pipelines  
+- 🗄️ SQL & Microsoft Fabric platform  
+- 🤖 Creating, optimizing, and deploying ML models effectively  
 
 
 ## 🌐 Socials:
